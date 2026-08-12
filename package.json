@@ -1,1 +1,21 @@
-{"name":"conflict-resolver","version":"1.0.0","main":"dist/index.js","types":"dist/index.d.ts","scripts":{"build":"tsc","test":"jest"},"keywords":["ferrow"],"license":"MIT"}
+{
+  "name": "conflict-resolver",
+  "version": "2.0.0",
+  "description": "Field-level 3-way merge for offline-first sync: auto-merges non-conflicting field changes, resolves true conflicts via lastWrite/preferLocal/preferRemote/custom strategies, and reports every conflict and how it was resolved. Zero runtime dependencies.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "node examples/demo.js"
+  },
+  "keywords": [
+    "merge",
+    "conflict-resolution",
+    "offline-first",
+    "sync",
+    "three-way-merge",
+    "typescript"
+  ],
+  "author": "Ruzylo-cloud",
+  "license": "MIT"
+}
