@@ -74,3 +74,6 @@ where `resolution` is `'local' | 'remote' | 'custom' | 'array-merge'`.
   `base`/`local`/`remote` for you or persist the result.
 
 Sponsored by [Ferrow](https://ferrow.ai)
+
+---
+Part of the [ferrow-toolkit](https://github.com/Ruzylo-cloud/ferrow-toolkit) collection · Sponsored by [Ferrow](https://ferrow.ai)
