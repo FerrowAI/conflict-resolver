@@ -1,4 +1,8 @@
 # conflict-resolver
+
+```sh
+npm install @ferrow/conflict-resolver
+```
 ![CI](https://github.com/FerrowAI/conflict-resolver/actions/workflows/ci.yml/badge.svg)
 
 Field-level 3-way merge for offline-first sync, in TypeScript/Node. Given

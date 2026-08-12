@@ -1,4 +1,6 @@
 # conflict-resolver
+
+Install: npm install @ferrow/conflict-resolver
 > Field-level 3-way merge for offline-first sync: auto-merges non-conflicting field changes, resolves true conflicts via lastWrite/preferLocal/preferRemote/custom strategies, and reports every conflict and how it was resolved. Zero runtime dependencies.
 
 Field-level 3-way merge for offline-first sync, in TypeScript/Node. Given a common ancestor (`base`) and two divergent copies (`local`, `remote`), `merge()` auto-merges fields changed on only one side, resolves true

@@ -1,5 +1,5 @@
 {
-  "name": "conflict-resolver",
+  "name": "@ferrow/conflict-resolver",
   "version": "2.0.0",
   "description": "Field-level 3-way merge for offline-first sync: auto-merges non-conflicting field changes, resolves true conflicts via lastWrite/preferLocal/preferRemote/custom strategies, and reports every conflict and how it was resolved. Zero runtime dependencies.",
   "main": "dist/index.js",
