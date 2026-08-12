@@ -1,4 +1,5 @@
 # conflict-resolver
+![CI](https://github.com/FerrowAI/conflict-resolver/actions/workflows/ci.yml/badge.svg)
 
 Field-level 3-way merge for offline-first sync, in TypeScript/Node. Given
 a common ancestor (`base`) and two divergent copies (`local`, `remote`),
